@@ -5,25 +5,25 @@
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/follow/AleoHQ?style=social"/></a>
 </p>
 
-## Welcome to Aleo.
+## Aleo Hoşgeldiniz
 
-This repository serves as a guide for getting started with building on Aleo. Here is a quick summary of the key components:
+Bu depo, Aleo'yu oluşturmaya başlamak için bir rehber görevi görür. İşte temel bileşenlerin kısa bir özeti:
 
-- [Aleo Studio](https://aleo.studio) - The first IDE for zero-knowledge proofs
-- [Aleo Package Manager](https://aleo.pm) - Official package manager of the Leo programming language
-- [Aleo Explorer](https://aleo.network) - Validate and broadcast on Aleo Testnet I
-- [Aleo Developer Portal](https://developer.aleo.org) - The documentation portal for Aleo and the Leo programming language.
-- [Leo Playground](http://play.leo-lang.org) - A browser interface to the Leo compiler for rapid ZK development and testing.
+- [Aleo Studio](https://aleo.studio) - Sıfır Bilgi İspatı için ilk IDE (for ZKP)
+- [Aleo Package Manager](https://aleo.pm) - Leo programlama dilinin resmi paket yöneticisi
+- [Aleo Explorer](https://aleo.network) - Aleo Testnet I'de doğrulama ve yayınlama
+- [Aleo Developer Portal](https://developer.aleo.org) - Aleo ve Leo programlama dili için dokümantasyon portalı.
+- [Leo Playground](http://play.leo-lang.org) - Hızlı ZK geliştirme ve testi için Leo derleyicisine yönelik bir tarayıcı arayüzü.
 
-For help getting set up, please join the Discord channel to ask questions and help others answer their questions.
+Kurulumla ilgili yardım için lütfen Discord kanalına katılarak soru sor ve diğerlerinin sorularına cevap vermelerine yardımcı ol.
 
-We will be updating this page with FAQs to make it easy for finding common issues and to fix them quickly.
+Sık karşılaşılan sorunları bulmayı ve hızlı bir şekilde düzeltmeyi kolaylaştırmak için bu sayfayı SSS'lerle güncelleyeceğiz.
 
 ## Aleo Testnet I
 
-### The Network
+### Ağ bağlanma
 
-To connect to the network, the following is a list of Aleo Testnet I bootnodes.
+Ağa bağlanmak için Aleo Testnet I önyükleme düğümlerinin listesi aşağıdadır.
 
 #### Americas
 
